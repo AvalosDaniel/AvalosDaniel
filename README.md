@@ -8,6 +8,6 @@
 <br>
 ![Mozilla Add-on](https://img.shields.io/static/v1?label=Node&message=16.x&color=blue&logo=Node&style=for-the-badge)
 <br>
-![Mozilla Add-on](https://img.shields.io/static/v1?label=CSS&message=3&color=blue&logo=css&style=for-the-badge)
+![Mozilla Add-on](https://img.shields.io/static/v1?label=CSS&message=3&color=blue&logo=CSS&style=for-the-badge)
 <br>
-![Mozilla Add-on](https://img.shields.io/static/v1?label=HTML&message=5&color=blue&logo=html&style=for-the-badge)
+![Mozilla Add-on](https://img.shields.io/static/v1?label=HTML&message=5&color=blue&logo=HTML&style=for-the-badge)
