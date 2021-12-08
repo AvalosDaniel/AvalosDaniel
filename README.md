@@ -5,7 +5,12 @@
 
 ## Skills
 
-![Mozilla Add-on](https://img.shields.io/static/v1?label=Laravel&message=8&color=red&logo=Laravel&style=for-the-badge)
+![Mozilla Add-on](https://img.shields.io/static/v1?label=Laravel&message=8.x&color=red&logo=Laravel&style=for-the-badge)
+![Mozilla Add-on](https://img.shields.io/static/v1?label=Angular&message=8.x&color=red&logo=Laravel&style=for-the-badge)
+![Mozilla Add-on](https://img.shields.io/static/v1?label=Node&message=8.x&color=red&logo=Laravel&style=for-the-badge)
+![Mozilla Add-on](https://img.shields.io/static/v1?label=CSS&message=8.x&color=red&logo=Laravel&style=for-the-badge)
+![Mozilla Add-on](https://img.shields.io/static/v1?label=HTML&message=8.x&color=red&logo=Laravel&style=for-the-badge)
+
 
 Here are some ideas to get you started:
 
