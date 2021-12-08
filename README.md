@@ -5,7 +5,7 @@
 
 ## Skills
 
-https://img.shields.io/badge/<Lara>-<Laravel>-<green>
+https://img.shields.io/badge/Lara-Laravel-green
   
 Laravel
 Angular
