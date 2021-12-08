@@ -10,4 +10,3 @@
 - ![Mozilla Add-on](https://img.shields.io/static/v1?label=Node&message=16.x&color=red&logo=Node&style=for-the-badge)
 - ![Mozilla Add-on](https://img.shields.io/static/v1?label=CSS&message=3&color=red&logo=CSS&style=for-the-badge)
 - ![Mozilla Add-on](https://img.shields.io/static/v1?label=HTML&message=5&color=red&logo=HTMl&style=for-the-badge)
-
