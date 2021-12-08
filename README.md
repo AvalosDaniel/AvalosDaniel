@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am a junior developer with almost two years of professional experience and interested in the world of development. Especially in Angular and Laravel 👍.
 
 ## Skills
 
