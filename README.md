@@ -5,7 +5,7 @@
 
 ## Skills
 
-https://img.shields.io/badge/Lara-Laravel-green
+![Mozilla Add-on](https://img.shields.io/amo/v/daniel?color=red&label=Laravel&logo=Laravel&style=for-the-badge)
   
 Laravel
 Angular
