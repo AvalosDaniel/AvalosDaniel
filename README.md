@@ -5,6 +5,8 @@
 
 ## Skills
 
+https://img.shields.io/badge/<Lara>-<Laravel>-<green>
+  
 Laravel
 Angular
 Node
