@@ -5,7 +5,7 @@
 
 ## Skills
 ![Mozilla Add-on](https://img.shields.io/amo/v/daniel?color=red&label=Laravel&logo=Laravel&style=for-the-badge)
-![Mozilla Add-on](https://img.shields.io/badge/color=red&label=Laravel&logo=Laravel&style=for-the-badge)
+![Web](https://img.shields.io/badge/color=red&label=Laravel&logo=Laravel&style=for-the-badge)
   
 
 
